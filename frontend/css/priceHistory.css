@@ -1,0 +1,32 @@
+#price-history{
+    margin-top: 10px;
+}
+
+#price-history .description{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#price-history .thumbnail{
+    max-height: 250px;
+    max-width: 250px;
+    box-shadow: unset;
+    margin: 0px;
+}
+
+#price-history .price-discount{
+    font-size: 36px;
+}
+
+#price-chart{
+    display: flex;
+    justify-content: center;
+}
+
+.chart-container{
+    position: relative;
+    height: 500px;
+    width: 1000px;
+}
+

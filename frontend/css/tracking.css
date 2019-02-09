@@ -1,0 +1,21 @@
+
+/* css from https://foundation.zurb.com/building-blocks/blocks/floated-label-wrapper.html */
+
+.floated-label-wrapper {
+    position: relative;
+  }
+  
+.floated-label-wrapper label {
+    background: #fefefe;
+    color: #1779ba;
+    font-size: 0.75rem;
+    font-weight: 600;
+    left: 0.75rem;
+    padding: 0 0.25rem;
+    position: absolute;
+    top: -0.85rem;
+}
+
+#tracking-form{
+    margin: auto;
+}

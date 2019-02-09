@@ -1,0 +1,19 @@
+.icon-search{
+    content: url("/media/icon-search.png");
+}
+
+.icon-logo{
+    content: url("/media/icon-logo.png");
+}
+
+.icon-edit{
+    content: url("/media/icon-edit32.png");
+}
+
+.icon-delete{
+    content: url("/media/icon-delete32.png");
+}
+
+.icon-profile{
+    content: url("/media/icon-profile128.png");
+}

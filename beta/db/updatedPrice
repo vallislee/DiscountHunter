@@ -1,0 +1,7 @@
+This is just a template idea. Feel free to add/remove keys. 
+{
+    '_id': 'xxxx',
+    'productId': 'abc',
+    'price': 29.99,
+    'date': xxxxxxxx
+}

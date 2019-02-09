@@ -1,0 +1,21 @@
+{
+  "name": "discounthunter",
+  "description": "",
+  "main": "discounthunter",
+  "authors": [
+    "Samuel Gao & Vallie Li"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/UTSCC09/DiscountHunter",
+  "directory": "frontend/components/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "chart.js": "chartjs#^2.7.2"
+  }
+}

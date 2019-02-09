@@ -1,0 +1,10 @@
+#user-info{
+    margin: 0 0 1.25rem;
+    padding: 1.25rem;
+    text-align: center;
+}
+
+#user-tracking{
+    max-width: 1000px;
+    margin: auto;
+}

@@ -1,0 +1,12 @@
+body{
+    height: 100%;
+    width: 100%;
+}
+
+.hide {
+    visibility: hidden;
+}
+
+.clickable {
+    cursor: pointer;
+}
